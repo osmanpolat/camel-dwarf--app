@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+
+}
+.container,h1,h2,h3{
+  color:white;
+}
+p {
+  color: white;
+  font-size: 25px;
+  font-weight: 500;
+}
+.btn.btn-primary, .btn.btn-danger{
+font-weight: 500;
+font-size: 20px;
+}
